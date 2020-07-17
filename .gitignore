@@ -1,0 +1,7 @@
+# any vscode checkpoints
+.vscode
+.ipynb_checkpoints
+
+# ignore the script txts
+data/txt_scripts/*
+!data/txt_scripts/.gitkeep
