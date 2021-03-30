@@ -51,7 +51,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 psutil==5.7.2
 pycryptodome==3.9.8
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.5.3
 PyPDF2==1.26.0
 pyrsistent==0.15.7
